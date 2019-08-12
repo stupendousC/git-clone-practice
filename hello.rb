@@ -1,7 +1,5 @@
-puts "yo wassup?!"
+
 
 puts "hello world!"
 
-puts "yeah I added this hahaha"
-
-puts "i added some more!"
+# once somehting is ADD'd to stage, any changes will go with it when u COMMIT
